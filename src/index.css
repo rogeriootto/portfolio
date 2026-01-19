@@ -1,7 +1,11 @@
 @import "tailwindcss";
+@font-face {
+  font-family: coolvetica;
+  src: url("./assets/fonts/coolvetica.otf");
+}
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif, coolvetica;
   line-height: 1.5;
   font-weight: 400;
 

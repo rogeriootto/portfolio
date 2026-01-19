@@ -1,6 +1,9 @@
 {
-  "welcome": "Welcome to my portfolio!",
-  "about": "About Me",
-  "projects": "Projects",
-  "contact": "Contact"
+  "header": {
+    "logo": "rogério.",
+    "aboutMe": "About Me",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  }
 }
